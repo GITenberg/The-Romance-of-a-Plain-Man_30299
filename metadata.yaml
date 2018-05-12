@@ -1,0 +1,36 @@
+_repo: The-Romance-of-a-Plain-Man_30299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: Glasgow set this 1909 novel in Richmond, Virginia, during the last two
+  decades of the nineteenth century. It features the tempestuous romance between a
+  driven industrialist with humble roots and a woman from a background of wealth and
+  privilege. An early twentieth-century review in the New York Times praised the author's
+  sure instinct for the dramatic situation and the telling phrase.
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30299'
+  lccn: 09012083
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businessmen -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Railroads -- Fiction'
+- !lcsh 'Richmond (Va.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Married people -- Fiction'
+title: The Romance of a Plain Man
+url: http://www.gutenberg.org/ebooks/30299
